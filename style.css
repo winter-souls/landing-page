@@ -6,3 +6,7 @@ header {
     display: flex;
     flex-direction: column;
 }
+
+.nav-bar {
+    display: flex;
+}
