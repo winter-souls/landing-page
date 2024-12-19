@@ -1,5 +1,7 @@
 body {
     font-family: monospace;
+    display: flex;
+    justify-content: center;
 }
 
 header {
@@ -9,20 +11,25 @@ header {
 
 .nav-bar {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     /*space-around is what makes the header "centered" with a large gap between the logo and links*/
     align-items: center;
-    padding: 10px;
+    border: 2px solid red;
+}
+
+.logo {
+    border: 2px solid red;
 }
 
 .right-links {
     display: flex;
     gap: 25px;
+    border: 2px solid red;
 }
 
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     border: 2px solid red;
 }
@@ -30,4 +37,9 @@ header {
 .container > img {
     width: 400px;
     height: auto;
+    border: 2px solid red;
+}
+
+.awesome {
+    border: 2px solid red;
 }
