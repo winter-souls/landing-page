@@ -15,5 +15,9 @@ header {
 
 .container {
     display: flex;
-    
+}
+
+.container > img {
+    width: 400px;
+    height: auto;
 }
