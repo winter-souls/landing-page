@@ -11,6 +11,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px;
+}
+
+.right-links {
+    display: flex;
+    gap: 25px;
 }
 
 .container {
