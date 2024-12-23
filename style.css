@@ -28,7 +28,7 @@ header {
     border: 2px solid red;
 }
 
-.container {
+.containerOne {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,7 +37,7 @@ header {
     border: 2px solid red;
 }
 
-.container > img {
+.containerOne > img {
     width: 400px;
     height: auto;
     border: 2px solid red;
@@ -45,4 +45,14 @@ header {
 
 .awesome {
     border: 2px solid red;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 100px;
+    height: 25px;
+    border-style: none;
 }
