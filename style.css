@@ -61,12 +61,22 @@ button {
     border: 2px solid red;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    height: 270px;
+    padding: 50px;
+    gap: 20px;
+}
+
+h2 {
+    border: 2px solid red;
 }
 
 .cards {
     border: 2px solid red;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 50px;
+    width: 100%;
 }
 
 .card {
