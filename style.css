@@ -59,4 +59,16 @@ button {
 
 .containerTwo {
     border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.cards {
+    border: 2px solid red;
+}
+
+.card {
+    border: 2px solid red;
+    width:100px;
+    height:100px;
 }
