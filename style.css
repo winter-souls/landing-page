@@ -125,4 +125,8 @@ h2 {
     margin-bottom:  -10px; /*YOU CAN USE NEGATIVE PIXELS????*/
 }
 
-
+footer {
+    display: flex;
+    padding: 25px;
+    justify-content: center;
+}
