@@ -34,7 +34,7 @@ header {
     justify-content: space-between;
     align-items: center;
     gap: 50px;
-    padding: 50px;
+    padding: 75px 130px;
     border: 2px solid red;
 }
 
