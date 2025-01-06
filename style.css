@@ -117,13 +117,14 @@ h2 {
 
 .blue-box {
     border: 2px solid red;
-    padding: 50px 75px;
+    padding: 25px 75px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.action-text {
-    border: 2px solid red;
+.action-text > h3 {
+    margin-bottom:  -10px; /*YOU CAN USE NEGATIVE PIXELS????*/
 }
+
 
