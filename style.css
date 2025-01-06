@@ -1,13 +1,9 @@
 body {
     font-family: 'Roboto', monospace;
     display: flex;
+    flex-direction: column;
     margin: auto;
     width: 75%;
-}
-
-header {
-    display: flex;
-    flex-direction: column;
 }
 
 .nav-bar {
