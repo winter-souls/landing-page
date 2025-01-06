@@ -112,10 +112,15 @@ h2 {
 
 .containerFour {
     border: 2px solid red;
+    padding: 75px 150px;
 }
 
 .blue-box {
     border: 2px solid red;
+    padding: 50px 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .action-text {
