@@ -124,7 +124,8 @@ h2 {
 
 .containerFour {
     border: 2px solid red;
-    padding: 75px 150px;
+    padding: 75px 50px;
+    width: 75%;
 }
 
 .blue-box {
