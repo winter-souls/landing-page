@@ -17,6 +17,12 @@ body {
     background-color: #ffedd4;
 }
 
+.greyContainer {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}
+
 .nav-bar {
     display: flex;
     justify-content: space-between;
@@ -109,16 +115,21 @@ h2 {
 .containerThree {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     border: 2px solid red;
-    padding: 75px 200px;
+    padding: 75px 50px;
+    width: 75%;
 }
 
 .quote {
     font-size: 35px;
+    padding: 2px 75px;
 }
 
 .author {
     align-self: flex-end;
+    margin-right: 75px;
+    margin-top: -30px;
     font-size: 20px;
 }
 
