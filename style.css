@@ -14,7 +14,7 @@ body {
 .stupidContainer2 {
     display: flex;
     justify-content: center;
-    background-color: lightslategray;
+    background-color: #ffedd4;
 }
 
 .nav-bar {
