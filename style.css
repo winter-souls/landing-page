@@ -3,7 +3,12 @@ body {
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: 75%;
+}
+
+.stupidContainer {
+    display: flex;
+    justify-content: center;
+    background-color: pink;
 }
 
 .nav-bar {
@@ -13,6 +18,7 @@ body {
     align-items: center;
     padding: 10px 50px;
     border: 2px solid red;
+    width: 75%
 }
 
 .logo {
@@ -130,3 +136,4 @@ footer {
     padding: 25px;
     justify-content: center;
 }
+
