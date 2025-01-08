@@ -15,13 +15,13 @@ body {
 .cardsContainer {
     display: flex;
     justify-content: center;
-    background-color: #ffedd4;
+    background-color: rgb(222, 145, 81);
 }
 
 .quoteContainer {
     display: flex;
     justify-content: center;
-    background-color: lightgray;
+    background-color: #FFF0BB;
 }
 
 .nav-bar {
