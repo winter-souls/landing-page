@@ -8,20 +8,20 @@ body {
 .topContainer {
     display: flex;
     justify-content: center;
-    background-color: rgb(99, 33, 33);
+    background-color: rgb(230, 127, 13);
     color: #FFF9FB;
 }
 
 .cardsContainer {
     display: flex;
     justify-content: center;
-    background-color: rgb(222, 145, 81);
+    background-color: #FEC43E;
 }
 
 .quoteContainer {
     display: flex;
     justify-content: center;
-    background-color: #FFF0BB;
+    background-color: #FFFFA5;
 }
 
 .nav-bar {
