@@ -30,18 +30,12 @@ body {
     /*space-around is what makes the header "centered" with a large gap between the logo and links*/
     align-items: center;
     padding: 10px 50px;
-    border: 2px solid red;
     width: 75%
-}
-
-.logo {
-    border: 2px solid red;
 }
 
 .right-links {
     display: flex;
     gap: 25px;
-    border: 2px solid red;
 }
 
 .containerOne {
@@ -50,17 +44,11 @@ body {
     align-items: center;
     padding: 75px 50px;
     width: 75%;
-    border: 2px solid red;
 }
 
 .containerOne > img {
     width: 400px;
     height: auto;
-    border: 2px solid red;
-}
-
-.awesome {
-    border: 2px solid red;
 }
 
 button {
@@ -76,7 +64,6 @@ button {
 }
 
 .containerTwo {
-    border: 2px solid red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -86,12 +73,7 @@ button {
     gap: 20px;
 }
 
-h2 {
-    border: 2px solid red;
-}
-
 .cards {
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     gap: 70px;
@@ -99,7 +81,6 @@ h2 {
 }
 
 .card {
-    border: 2px solid red;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -116,7 +97,6 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    border: 2px solid red;
     padding: 75px 50px;
     width: 75%;
 }
@@ -134,13 +114,11 @@ h2 {
 }
 
 .containerFour {
-    border: 2px solid red;
     padding: 75px 50px;
     width: 75%;
 }
 
 .blue-box {
-    border: 2px solid red;
     padding: 25px 75px;
     display: flex;
     justify-content: space-between;
