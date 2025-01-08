@@ -8,7 +8,8 @@ body {
 .topContainer {
     display: flex;
     justify-content: center;
-    background-color: pink;
+    background-color: rgb(99, 33, 33);
+    color: #FFF9FB;
 }
 
 .cardsContainer {
