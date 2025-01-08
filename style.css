@@ -30,7 +30,7 @@ body {
     /*space-around is what makes the header "centered" with a large gap between the logo and links*/
     align-items: center;
     padding: 10px 50px;
-    width: 75%
+    width: 60%
 }
 
 .right-links {
@@ -40,10 +40,10 @@ body {
 
 .containerOne {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 75px 50px;
-    width: 75%;
+    width: 60%;
 }
 
 .containerOne > img {
@@ -67,7 +67,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 75%;
+    width: 60%;
     height: 270px;
     padding: 50px;
     gap: 20px;
@@ -98,7 +98,7 @@ button {
     flex-direction: column;
     justify-content: center;
     padding: 75px 50px;
-    width: 75%;
+    width: 60%;
 }
 
 .quote {
@@ -115,7 +115,7 @@ button {
 
 .containerFour {
     padding: 75px 50px;
-    width: 75%;
+    width: 60%;
 }
 
 .blue-box {
