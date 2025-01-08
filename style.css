@@ -1,3 +1,10 @@
+:root {
+    --top-bg-color: rgb(230, 127, 13);
+    --bg-color-2: #FEC43E;
+    --quote-bg-color: #FFFFA5;
+    --text-color-light: white;
+    --text-color-dark: #772F1A;
+}
 body {
     font-family: 'Roboto', monospace;
     display: flex;
@@ -8,20 +15,20 @@ body {
 .topContainer {
     display: flex;
     justify-content: center;
-    background-color: rgb(230, 127, 13);
-    color: #FFF9FB;
+    background-color: var(--top-bg-color);
+    color: var(--text-color-light)
 }
 
 .cardsContainer {
     display: flex;
     justify-content: center;
-    background-color: #FEC43E;
+    background-color: var(--bg-color-2);
 }
 
 .quoteContainer {
     display: flex;
     justify-content: center;
-    background-color: #FFFFA5;
+    background-color: var(--quote-bg-color);
 }
 
 .nav-bar {
@@ -53,8 +60,8 @@ body {
 }
 
 button {
-    background-color: #3882F6;
-    color: white;
+    background-color: var(--text-color-dark);
+    color: var(--text-color-light)
     border-radius: 5px;
     border: 2px solid white;
     font-weight: bold;
