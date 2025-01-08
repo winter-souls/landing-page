@@ -5,7 +5,7 @@ body {
     margin: auto;
 }
 
-.stupidContainer {
+.topContainer {
     display: flex;
     justify-content: center;
     background-color: pink;
