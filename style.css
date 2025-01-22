@@ -20,6 +20,10 @@ body {
     color: var(--text-color-light)
 }
 
+.topContainer > h1 {
+    font-size: 48px;
+}
+
 .cardsContainer {
     display: flex;
     justify-content: center;
