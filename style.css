@@ -20,8 +20,10 @@ body {
     color: var(--text-color-light)
 }
 
-.topContainer > h1 {
+.awesome > h1 {
     font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 5px;
 }
 
 .cardsContainer {
@@ -43,6 +45,11 @@ body {
     align-items: center;
     padding: 10px 50px;
     width: 60%
+}
+
+.logo {
+    font-weight: bolder;
+    font-size: 20px;
 }
 
 .right-links {
