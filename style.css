@@ -57,6 +57,11 @@ body {
     gap: 25px;
 }
 
+.right-links > a {
+    text-decoration: none;
+    color: var(--text-color-light)
+}
+
 .containerOne {
     display: flex;
     justify-content: space-between;
